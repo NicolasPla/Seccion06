@@ -8,7 +8,7 @@
         app:showAsAction="never" />
 
     <item android:id="@+id/menu_forget_logout"
-        android:title="Log Out and Log out"
+        android:title="Forget and Log out"
         app:showAsAction="never" />
 
 
